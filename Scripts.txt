@@ -1,5 +1,0 @@
-Select_Script
-Ping.ps1
-Transition.ps1
-Blackout.ps1
-Validations.ps1
